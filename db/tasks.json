@@ -1,27 +1,27 @@
 [
   {
-    "title": "Read Bible",
+    "title": "Clean car",
+    "completed": false,
+    "id": 1
+  },
+  {
+    "title": "Study",
     "completed": false,
     "id": 2
   },
   {
-    "title": "Take a nap",
-    "completed": true,
+    "title": "Read",
+    "completed": false,
     "id": 3
   },
   {
-    "title": "Pay bills",
+    "title": "Pray",
     "completed": false,
     "id": 4
   },
   {
-    "title": "Do laundry",
+    "title": "Work",
     "completed": false,
     "id": 5
-  },
-  {
-    "title": "Wash dishes",
-    "completed": true,
-    "id": 6
   }
 ]
